@@ -1,0 +1,332 @@
+time,event,team,players,on_ice,game_id,home,away
+60:00,GK Out,HV 71,"1.  Liv,  Stefan",,389622,HV 71,Frölunda HC
+59:49,2 min,HV 71,"7.  Gustafsson,  Per",Roughing  (59:49 - 61:49),389622,HV 71,Frölunda HC
+59:49,2 min,Frölunda HC,"24.  Andersson,  Niklas",Roughing  (59:49 - 60:00),389622,HV 71,Frölunda HC
+59:49,2 min,Frölunda HC,"24.  Andersson,  Niklas",Slashing  (59:49 - 61:49),389622,HV 71,Frölunda HC
+58:41,2 min,HV 71,"39.  Voutilainen,  Jukka",Crosschecking  (58:41 - 60:00),389622,HV 71,Frölunda HC
+58:33,GK Out,Frölunda HC,"1.  Gistedt,  Joel",,389622,HV 71,Frölunda HC
+55:44,6-5 (EQ),Frölunda HC,"44.  Ahnelöv,  Jonas  (1)","Pos. Part.: 1  , 23  , 24  , 30  , 44  , 71  Neg. Part.: 1  , 16  , 17  , 19  , 21  , 22",389622,HV 71,Frölunda HC
+53:17,TO,Frölunda HC,Timeout,,389622,HV 71,Frölunda HC
+53:17,6-4 (PP1),HV 71,"50.  Jämtin,  Andreas  (1)  9.  Niskanen,  Mika","Pos. Part.: 1  , 5  , 9  , 33  , 50  , 77  Neg. Part.: 1  , 16  , 23  , 26  , 28",389622,HV 71,Frölunda HC
+51:46,2 min,Frölunda HC,"44.  Ahnelöv,  Jonas",Charging  (51:46 - 53:17),389622,HV 71,Frölunda HC
+50:22,2 min,Frölunda HC,"22.  Esbjörs,  Jonas",Hooking  (50:22 - 52:22),389622,HV 71,Frölunda HC
+49:55,5-4 (EQ),HV 71,"10.  Thörnberg,  Martin  (1)  76.  Davidsson,  Johan","Pos. Part.: 1  , 7  , 8  , 10  , 39  , 76  Neg. Part.: 1  , 17  , 18  , 23  , 28  , 44",389622,HV 71,Frölunda HC
+49:20,4-4 (EQ),HV 71,"9.  Niskanen,  Mika  (1)  5.  Luoma,  Mikko","Pos. Part.: 1  , 5  , 9  , 16  , 17  , 19  Neg. Part.: 1  , 7  , 11  , 12  , 16  , 26",389622,HV 71,Frölunda HC
+42:33,2 min,Frölunda HC,"25.  Ackeström,  Oscar",Holding the stick  (42:33 - 44:33),389622,HV 71,Frölunda HC
+36:56,3-4 (PP1),HV 71,"39.  Voutilainen,  Jukka  (1)  76.  Davidsson,  Johan22.  Petrasek,  David","Pos. Part.: 1  , 10  , 21  , 22  , 39  , 76  Neg. Part.: 1  , 12  , 16  , 26  , 44",389622,HV 71,Frölunda HC
+36:50,2 min,Frölunda HC,"23.  Sundin,  Ronnie",Charging  (36:50 - 36:56),389622,HV 71,Frölunda HC
+30:54,2 min,Frölunda HC,"23.  Sundin,  Ronnie",Slashing  (30:54 - 32:54),389622,HV 71,Frölunda HC
+29:30,2-4 (EQ),Frölunda HC,"28.  Plüss,  Martin  (2)  18.  Kariya,  Steven","Pos. Part.: 1  , 7  , 18  , 25  , 28  Neg. Part.: 1  , 21  , 22  , 33  , 77",389622,HV 71,Frölunda HC
+29:08,2 min,Frölunda HC,"11.  Kahnberg,  Magnus",Hooking  (29:08 - 31:08),389622,HV 71,Frölunda HC
+28:30,2 min,HV 71,"5.  Luoma,  Mikko",Hooking  (28:30 - 30:30),389622,HV 71,Frölunda HC
+26:04,2 min,HV 71,"16.  Johansson,  Jonas",Holding  (26:04 - 28:04),389622,HV 71,Frölunda HC
+21:31,2-3 (PP2),Frölunda HC,"24.  Andersson,  Niklas  (1)  81.  Holmqvist,  Andreas","Pos. Part.: 1  , 11  , 24  , 30  , 71  , 81  Neg. Part.: 1  , 7  , 8  , 76",389622,HV 71,Frölunda HC
+21:15,2 min,HV 71,"5.  Luoma,  Mikko",Tripping  (21:15 - 23:15),389622,HV 71,Frölunda HC
+19:55,2 min,HV 71,"97.  Ledin,  Per",Hooking  (19:55 - 21:31),389622,HV 71,Frölunda HC
+14:38,2-2 (EQ),Frölunda HC,"28.  Plüss,  Martin  (1)","Pos. Part.: 1  , 17  , 18  , 26  , 28  , 44  Neg. Part.: 1  , 21  , 22  , 24  , 75  , 97",389622,HV 71,Frölunda HC
+14:16,2-1 (EQ),Frölunda HC,"10.  Pettersson,  Fredrik  (1)  22.  Esbjörs,  Jonas","Pos. Part.: 1  , 7  , 10  , 21  , 22  , 25  Neg. Part.: 1  , 7  , 8  , 33  , 50  , 77",389622,HV 71,Frölunda HC
+09:23,2 min,Frölunda HC,"28.  Plüss,  Martin",Slashing  (09:23 - 11:23),389622,HV 71,Frölunda HC
+06:19,2-0 (SH1),HV 71,"33.  Kauppila,  Jari  (1)  50.  Jämtin,  Andreas","Pos. Part.: 1  , 7  , 8  , 33  , 50  Neg. Part.: 1  , 17  , 18  , 21  , 28  , 81",389622,HV 71,Frölunda HC
+05:03,2 min,HV 71,"21.  Puistola,  Pasi",Interference  (05:03 - 07:03),389622,HV 71,Frölunda HC
+03:19,1-0 (PP1),HV 71,"21.  Puistola,  Pasi  (1)  22.  Petrasek,  David10.  Thörnberg,  Martin","Pos. Part.: 1  , 10  , 21  , 22  , 39  , 76  Neg. Part.: 1  , 12  , 16  , 26  , 44",389622,HV 71,Frölunda HC
+02:24,2 min,Frölunda HC,"7.  Niemi,  Antti-Jussi",Hooking  (02:24 - 03:19),389622,HV 71,Frölunda HC
+00:00,GK In,Frölunda HC,"1.  Gistedt,  Joel",,389622,HV 71,Frölunda HC
+00:00,GK In,HV 71,"1.  Liv,  Stefan",,389622,HV 71,Frölunda HC
+60:48,5-4 (EQ),Skellefteå AIK,"58.  Marttinen,  Jyri  (1)  3.  Andersson,  Erik12.  Mcdonell,  Kent","Pos. Part.: 1  , 3  , 12  , 23  , 58  Neg. Part.: 8  , 19  , 24  , 29  , 37",388749,Skellefteå AIK,Rögle BK
+60:48,GK Out,Rögle BK,"37.  Nihlstorp,  Cristopher",,388749,Skellefteå AIK,Rögle BK
+60:48,GK Out,Skellefteå AIK,"1.  Hadelöv,  Andreas",,388749,Skellefteå AIK,Rögle BK
+57:17,4-4 (PP1),Rögle BK,"8.  Porseland,  Mathias  (1)  26.  Johansson,  Jakob65.  Brendheden,  Andrée","Pos. Part.: 8  , 17  , 19  , 26  , 37  , 65  Neg. Part.: 1  , 3  , 49  , 58  , 82",388749,Skellefteå AIK,Rögle BK
+55:19,2 min,Skellefteå AIK,"12.  Mcdonell,  Kent",Hooking  (55:19 - 57:17),388749,Skellefteå AIK,Rögle BK
+54:56,4-3 (EQ),Skellefteå AIK,"23.  Moran,  Brad  (1)  26.  Söderberg,  Anders","Pos. Part.: 1  , 13  , 16  , 23  , 26  , 44  Neg. Part.: 6  , 10  , 11  , 12  , 27  , 37",388749,Skellefteå AIK,Rögle BK
+53:38,TO,Rögle BK,Timeout,,388749,Skellefteå AIK,Rögle BK
+53:38,3-3 (EQ),Skellefteå AIK,"9.  Koskenkorva,  Kimmo  (1)  49.  Pears,  Gabriel","Pos. Part.: 1  , 9  , 16  , 38  , 49  , 82  Neg. Part.: 6  , 11  , 12  , 19  , 26  , 37",388749,Skellefteå AIK,Rögle BK
+52:15,2-3 (EQ),Skellefteå AIK,"44.  Erixon,  Tim  (1)  10.  Krekula,  Fredrik","Pos. Part.: 1  , 3  , 10  , 20  , 27  , 44  Neg. Part.: 6  , 7  , 11  , 12  , 27  , 37",388749,Skellefteå AIK,Rögle BK
+44:33,1-3 (SH1),Skellefteå AIK,"82.  Söderström,  Christian  (1)  7.  Rundblad,  David49.  Pears,  Gabriel","Pos. Part.: 1  , 7  , 44  , 49  , 82  Neg. Part.: 6  , 10  , 12  , 17  , 26  , 37",388749,Skellefteå AIK,Rögle BK
+42:42,2 min,Skellefteå AIK,"16.  Lindgren,  Fredrik",Tripping  (42:42 - 44:42),388749,Skellefteå AIK,Rögle BK
+42:19,0-3 (EQ),Rögle BK,"71.  Lorentzen,  Peter  (1)  19.  Jönsson,  Kenny","Pos. Part.: 4  , 10  , 15  , 37  , 44  , 71  Neg. Part.: 1  , 3  , 9  , 49  , 58  , 82",388749,Skellefteå AIK,Rögle BK
+32:48,0-2 (SH1),Rögle BK,"17.  Tjärnqvist,  Mathias  (1)  26.  Johansson,  Jakob","Pos. Part.: 8  , 10  , 17  , 26  , 35  Neg. Part.: 1  , 7  , 12  , 20  , 26  , 58",388749,Skellefteå AIK,Rögle BK
+32:00,2 min,Rögle BK,"7.  Bödker,  Mads",Tripping  (32:00 - 34:00),388749,Skellefteå AIK,Rögle BK
+13:45,2 min,Rögle BK,"27.  Salmonsson,  Johannes",Tripping  (13:45 - 15:45),388749,Skellefteå AIK,Rögle BK
+07:27,2 min,Rögle BK,"27.  Salmonsson,  Johannes",Hooking  (07:27 - 09:27),388749,Skellefteå AIK,Rögle BK
+03:06,0-1 (EQ),Rögle BK,"15.  Karlsson,  Sebastian  (1)  71.  Lorentzen,  Peter19.  Jönsson,  Kenny","Pos. Part.: 8  , 15  , 19  , 35  , 44  , 71  Neg. Part.: 1  , 7  , 13  , 16  , 23  , 82",388749,Skellefteå AIK,Rögle BK
+00:00,GK In,Rögle BK,"37.  Nihlstorp,  Cristopher",,388749,Skellefteå AIK,Rögle BK
+00:00,GK In,Skellefteå AIK,"1.  Hadelöv,  Andreas",,388749,Skellefteå AIK,Rögle BK
+60:00,GK Out,Luleå HF,"31.  Nilsson,  Anders",,388166,Skellefteå AIK,Luleå HF
+60:00,GK Out,Skellefteå AIK,"1.  Hadelöv,  Andreas",,388166,Skellefteå AIK,Luleå HF
+59:57,2 min,Skellefteå AIK,"58.  Marttinen,  Jyri",Roughing  (60:00 - 60:00),388166,Skellefteå AIK,Luleå HF
+59:57,2 min,Luleå HF,"26.  Lavander,  Mats",Roughing  (60:00 - 60:00),388166,Skellefteå AIK,Luleå HF
+59:57,2 min,Skellefteå AIK,"58.  Marttinen,  Jyri",Roughing  (59:57 - 60:00),388166,Skellefteå AIK,Luleå HF
+59:57,2 min,Luleå HF,"26.  Lavander,  Mats",Roughing  (59:57 - 60:00),388166,Skellefteå AIK,Luleå HF
+59:57,GK In,Luleå HF,"31.  Nilsson,  Anders",,388166,Skellefteå AIK,Luleå HF
+59:23,3-1 (PP1),Luleå HF,"26.  Lavander,  Mats  (1)  51.  Lundberg,  Emil","Pos. Part.: 7  , 10  , 14  , 26  , 41  , 51  Neg. Part.: 1  , 8  , 11  , 20  , 41",388166,Skellefteå AIK,Luleå HF
+57:54,2 min,Skellefteå AIK,"44.  Erixon,  Tim",Holding  (57:54 - 59:23),388166,Skellefteå AIK,Luleå HF
+57:54,GK Out,Luleå HF,"31.  Nilsson,  Anders",,388166,Skellefteå AIK,Luleå HF
+57:54,TO,Luleå HF,Timeout,,388166,Skellefteå AIK,Luleå HF
+55:00,2 min,Skellefteå AIK,"82.  Söderström,  Christian",Hooking  (55:00 - 57:00),388166,Skellefteå AIK,Luleå HF
+53:50,2 min,Luleå HF,"20.  Lidhammar,  Mikael",Slashing  (53:50 - 55:50),388166,Skellefteå AIK,Luleå HF
+46:28,2 min,Skellefteå AIK,"20.  Forssell,  Erik",Tripping  (46:28 - 48:28),388166,Skellefteå AIK,Luleå HF
+37:07,2 min,Luleå HF,"17.  Hedström,  Jonathan",Slashing  (37:07 - 39:07),388166,Skellefteå AIK,Luleå HF
+36:42,2 min,Skellefteå AIK,"5.  Larsson,  Adam",Crosschecking  (36:42 - 38:42),388166,Skellefteå AIK,Luleå HF
+33:07,3-0 (EQ),Skellefteå AIK,"58.  Marttinen,  Jyri  (1)  21.  Ericsson,  Jimmie19.  Forsberg,  Johan","Pos. Part.: 1  , 7  , 19  , 21  , 23  , 58  Neg. Part.: 7  , 10  , 16  , 21  , 31  , 40",388166,Skellefteå AIK,Luleå HF
+26:50,2 min,Skellefteå AIK,"58.  Marttinen,  Jyri",Hooking  (26:50 - 28:50),388166,Skellefteå AIK,Luleå HF
+24:11,2 min,Skellefteå AIK,"20.  Forssell,  Erik",Hooking  (24:11 - 26:11),388166,Skellefteå AIK,Luleå HF
+21:02,2 min,Luleå HF,"26.  Lavander,  Mats",Slashing  (21:02 - 23:02),388166,Skellefteå AIK,Luleå HF
+18:27,2 min,Skellefteå AIK,"23.  Moran,  Brad",Hooking  (18:27 - 20:27),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Skellefteå AIK,"41.  Månsson,  Mathias",Roughing  (19:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Skellefteå AIK,"58.  Marttinen,  Jyri",Roughing  (19:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Luleå HF,"29.  Abbott,  Chris",Roughing  (19:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Luleå HF,"24.  Abbott,  Cameron",Roughing  (19:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Skellefteå AIK,"41.  Månsson,  Mathias",Roughing  (17:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Skellefteå AIK,"58.  Marttinen,  Jyri",Roughing  (17:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Luleå HF,"29.  Abbott,  Chris",Roughing  (17:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:54,2 min,Luleå HF,"24.  Abbott,  Cameron",Roughing  (17:54 - 19:54),388166,Skellefteå AIK,Luleå HF
+17:23,2-0 (PP1),Skellefteå AIK,"82.  Söderström,  Christian  (1)  23.  Moran,  Brad19.  Forsberg,  Johan","Pos. Part.: 1  , 5  , 11  , 19  , 23  , 82  Neg. Part.: 7  , 10  , 21  , 26  , 31",388166,Skellefteå AIK,Luleå HF
+16:33,2 min,Luleå HF,"2.  Johnsson,  Pierre",Hooking  (16:33 - 17:23),388166,Skellefteå AIK,Luleå HF
+13:10,1-0 (PP2),Skellefteå AIK,"11.  Skrbek,  Pavel  (1)  5.  Larsson,  Adam19.  Forsberg,  Johan","Pos. Part.: 1  , 5  , 11  , 19  , 21  , 23  Neg. Part.: 7  , 10  , 27  , 31",388166,Skellefteå AIK,Luleå HF
+12:58,2 min,Luleå HF,"6.  Berglund,  Kristofer",Slashing  (12:58 - 14:58),388166,Skellefteå AIK,Luleå HF
+12:05,2 min,Luleå HF,"39.  Jonsson,  Robin",Hooking  (12:05 - 13:10),388166,Skellefteå AIK,Luleå HF
+09:30,2 min,Skellefteå AIK,"79.  Warg,  Fredrik",Slashing  (09:30 - 11:30),388166,Skellefteå AIK,Luleå HF
+07:01,2 min,Luleå HF,"24.  Abbott,  Cameron",Hooking  (07:01 - 09:01),388166,Skellefteå AIK,Luleå HF
+01:40,2 min,Luleå HF,"14.  Chabada,  Martin",Crosschecking  (01:40 - 03:40),388166,Skellefteå AIK,Luleå HF
+00:00,GK In,Luleå HF,"31.  Nilsson,  Anders",,388166,Skellefteå AIK,Luleå HF
+00:00,GK In,Skellefteå AIK,"1.  Hadelöv,  Andreas",,388166,Skellefteå AIK,Luleå HF
+60:00,GK Out,Linköping HC,"30.  Norrena,  Fredrik",,35950,AIK IF,Linköpings HC
+60:00,GK Out,AIK,"40.  Heino-Lindberg,  Christopher",,35950,AIK IF,Linköpings HC
+59:42,2 min,Linköping HC,"29.  Lindhagen,  Erik",Holding  (59:42 - 60:00),35950,AIK IF,Linköpings HC
+54:18,1-5 (EQ),Linköping HC,"35.  Ylven Laumann,  Martin  (1)  26.  Tolsa,  Jari7.  Johansson,  Magnus","Pos. Part.: 6  , 7  , 12  , 26  , 30  , 35  Neg. Part.: 6  , 23  , 24  , 25  , 40  , 45",35950,AIK IF,Linköpings HC
+51:16,2 min,AIK,"37.  Johansson,  Stefan",Interference  (51:16 - 53:16),35950,AIK IF,Linköpings HC
+50:46,1-4 (EQ),Linköping HC,"26.  Tolsa,  Jari  (1)  11.  Persson,  Robin7.  Johansson,  Magnus","Pos. Part.: 7  , 11  , 12  , 26  , 30  , 35  Neg. Part.: 12  , 20  , 21  , 23  , 40  , 84",35950,AIK IF,Linköpings HC
+50:22,TO,AIK,Timeout,,35950,AIK IF,Linköpings HC
+47:08,2 min,Linköping HC,"17.  Andersson,  Johan",Slashing  (47:08 - 49:08),35950,AIK IF,Linköpings HC
+47:08,2 min,AIK,"45.  Steen,  Oscar",Roughing  (47:08 - 49:08),35950,AIK IF,Linköpings HC
+42:56,1-3 (EQ),Linköping HC,"22.  Murley,  Matt  (1)  28.  Hävelid,  Niclas30.  Norrena,  Fredrik","Pos. Part.: 3  , 22  , 24  , 28  , 29  , 30  Neg. Part.: 4  , 6  , 33  , 40  , 68  , 86",35950,AIK IF,Linköpings HC
+28:11,1-2 (EQ),Linköping HC,"18.  Petterström,  Pontus  (1)  12.  Karlsson,  Sebastian7.  Johansson,  Magnus","Pos. Part.: 7  , 11  , 12  , 18  , 30  , 35  Neg. Part.: 10  , 14  , 21  , 23  , 40  , 70",35950,AIK IF,Linköpings HC
+23:24,2 min,Linköping HC,"35.  Ylven Laumann,  Martin",Charging  (23:24 - 25:24),35950,AIK IF,Linköpings HC
+20:44,1-1 (EQ),AIK,"10.  Gynge,  Richard  (1)  45.  Steen,  Oscar23.  Liwing,  Jonas","Pos. Part.: 10  , 12  , 14  , 23  , 40  , 45  Neg. Part.: 11  , 26  , 28  , 30  , 51  , 91",35950,AIK IF,Linköpings HC
+20:00,0-1 (PP1),Linköping HC,"7.  Johansson,  Magnus  (1)  19.  Zackrisson,  Patrik17.  Andersson,  Johan","Pos. Part.: 7  , 17  , 19  , 28  , 30  , 91  Neg. Part.: 6  , 21  , 40  , 45  , 70",35950,AIK IF,Linköpings HC
+19:30,2 min,AIK,"37.  Johansson,  Stefan",Puck out of bounds or unplayable  (19:30 - 20:00),35950,AIK IF,Linköpings HC
+13:07,2 min,AIK,"14.  Rudslätt,  Daniel",Hooking  (13:07 - 15:07),35950,AIK IF,Linköpings HC
+00:00,GK In,Linköping HC,"30.  Norrena,  Fredrik",,35950,AIK IF,Linköpings HC
+00:00,GK In,AIK,"40.  Heino-Lindberg,  Christopher",,35950,AIK IF,Linköpings HC
+65:00,GK Out,Växjö Lakers HC,"28.  Gerber,  Martin",,64574,Luleå HF,Växjö Lakers HC
+65:00,GK Out,Luleå HF,"37.  Gustafsson,  Johan",,64574,Luleå HF,Växjö Lakers HC
+53:12,2-2 (PP1),Växjö Lakers HC,"73.  Iggulden,  Mike71.  Kallio,  Tomi",,64574,Luleå HF,Växjö Lakers HC
+52:35,2 min,Luleå HF,"19.  Karlsson,  Kim",Hooking  (52:35 - 53:12),64574,Luleå HF,Växjö Lakers HC
+50:18,2 min,Växjö Lakers HC,"18.  Hållberg,  Per",Interference  (50:18 - 52:18),64574,Luleå HF,Växjö Lakers HC
+49:33,2-1 (PP1),Växjö Lakers HC,"85.  Reddox,  Liam49.  Heikkinen,  Ilkka71.  Kallio,  Tomi",,64574,Luleå HF,Växjö Lakers HC
+48:55,2 min,Luleå HF,"40.  Sandell,  Sami",Tripping  (48:55 - 49:33),64574,Luleå HF,Växjö Lakers HC
+44:09,TO,Luleå HF,Timeout,,64574,Luleå HF,Växjö Lakers HC
+22:04,2 min,Luleå HF,"26.  Wallin,  Niclas",Crosschecking  (22:04 - 24:04),64574,Luleå HF,Växjö Lakers HC
+19:23,2 min,Växjö Lakers HC,"97.  Soares,  Joshua",Hooking  (19:23 - 21:23),64574,Luleå HF,Växjö Lakers HC
+14:06,2-0 (PP2),Luleå HF,"38.  Viitaluoma,  Ville20.  Vihko,  Joonas10.  Fransson,  Johan",,64574,Luleå HF,Växjö Lakers HC
+13:45,2 min,Växjö Lakers HC,"3.  Karlsson,  Björn",Highsticking  (13:45 - 15:45),64574,Luleå HF,Växjö Lakers HC
+13:45,2 min,Växjö Lakers HC,"3.  Karlsson,  Björn",Highsticking  (15:45 - 17:45),64574,Luleå HF,Växjö Lakers HC
+13:06,2 min,Växjö Lakers HC,"49.  Heikkinen,  Ilkka",Interference  (13:06 - 14:06),64574,Luleå HF,Växjö Lakers HC
+08:48,1-0 (PP1),Luleå HF,"17.  Komarek,  Konstantin19.  Karlsson,  Kim10.  Fransson,  Johan",,64574,Luleå HF,Växjö Lakers HC
+06:50,2 min,Växjö Lakers HC,"18.  Hållberg,  Per",Hooking  (06:50 - 08:48),64574,Luleå HF,Växjö Lakers HC
+01:13,2 min,Luleå HF,"26.  Wallin,  Niclas",Interference  (01:13 - 03:13),64574,Luleå HF,Växjö Lakers HC
+00:00,GK In,Växjö Lakers HC,"28.  Gerber,  Martin",,64574,Luleå HF,Växjö Lakers HC
+00:00,GK In,Luleå HF,"37.  Gustafsson,  Johan",,64574,Luleå HF,Växjö Lakers HC
+60:00,GK Out,MODO Hockey,"29.  Starkbaum,  Bernhard",,115494,Skellefteå AIK,MODO Hockey
+60:00,GK Out,Skellefteå AIK,"30.  Eriksson,  Joacim",,115494,Skellefteå AIK,MODO Hockey
+59:36,2 min,MODO Hockey,"75.  Stehlik,  Richard",Crosschecking  (59:36 - 60:00),115494,Skellefteå AIK,MODO Hockey
+48:04,2 min,MODO Hockey,"25.  Müller,  Marcel",Hooking  (48:04 - 50:04),115494,Skellefteå AIK,MODO Hockey
+45:05,2 min,Skellefteå AIK,"61.  Lindgren,  Fredrik",Tripping  (45:05 - 47:05),115494,Skellefteå AIK,MODO Hockey
+40:00,10 min,MODO Hockey,"12.  Spina,  Dave",Abuse of Officials  (44:00 - 54:00),115494,Skellefteå AIK,MODO Hockey
+40:00,2 min,Skellefteå AIK,"27.  Lundberg,  Martin",Roughing  (40:00 - 42:00),115494,Skellefteå AIK,MODO Hockey
+40:00,2 min,Skellefteå AIK,"27.  Lundberg,  Martin",Roughing  (42:00 - 44:00),115494,Skellefteå AIK,MODO Hockey
+40:00,2 min,MODO Hockey,"12.  Spina,  Dave",Roughing  (40:00 - 42:00),115494,Skellefteå AIK,MODO Hockey
+40:00,2 min,MODO Hockey,"12.  Spina,  Dave",Roughing  (42:00 - 44:00),115494,Skellefteå AIK,MODO Hockey
+39:47,2 min,Skellefteå AIK,"28.  Alm,  Johan",Crosschecking  (39:47 - 41:47),115494,Skellefteå AIK,MODO Hockey
+35:29,2 min,Skellefteå AIK,"18.  Petterström,  Pontus",Tripping  (35:29 - 37:29),115494,Skellefteå AIK,MODO Hockey
+30:53,2 min,MODO Hockey,"65.  Marcinko,  Tomas",Highsticking  (30:53 - 32:53),115494,Skellefteå AIK,MODO Hockey
+30:14,5-1 (PP1),MODO Hockey,"49.  Regehr,  Richie25.  Müller,  Marcel10.  Skröder,  Per-Åge","Pos. Part.: 10  , 12  , 24  , 25  , 29  , 49  Neg. Part.: 2  , 15  , 23  , 27  , 30",115494,Skellefteå AIK,MODO Hockey
+29:30,2 min,Skellefteå AIK,"61.  Lindgren,  Fredrik",Tripping  (29:30 - 30:14),115494,Skellefteå AIK,MODO Hockey
+25:53,2 min,Skellefteå AIK,"28.  Alm,  Johan",Interference  (25:53 - 27:53),115494,Skellefteå AIK,MODO Hockey
+22:26,5-0 (EQ),Skellefteå AIK,"45.  Möller,  Oscar24.  Lindberg,  Oscar3.  Burström,  Niclas","Pos. Part.: 2  , 3  , 11  , 24  , 30  , 45  Neg. Part.: 22  , 29  , 38  , 65  , 70  , 75",115494,Skellefteå AIK,MODO Hockey
+20:00,GK In,MODO Hockey,"29.  Starkbaum,  Bernhard",,115494,Skellefteå AIK,MODO Hockey
+20:00,GK Out,MODO Hockey,"69.  Ahlsenfelt,  Oscar",,115494,Skellefteå AIK,MODO Hockey
+19:59,4-0 (EQ),Skellefteå AIK,"24.  Lindberg,  Oscar51.  Styrman,  Fredrik11.  Holloway,  George","Pos. Part.: 6  , 11  , 24  , 30  , 51  Neg. Part.: 3  , 17  , 25  , 49  , 69",115494,Skellefteå AIK,MODO Hockey
+19:03,2 min,MODO Hockey,"10.  Skröder,  Per-Åge",Hooking  (19:03 - 21:03),115494,Skellefteå AIK,MODO Hockey
+18:30,2 min,Skellefteå AIK,"23.  Skogs,  Tomas",Boarding  (18:30 - 20:30),115494,Skellefteå AIK,MODO Hockey
+16:30,3-0 (EQ),Skellefteå AIK,"45.  Möller,  Oscar11.  Holloway,  George15.  Karlsson,  Melker","Pos. Part.: 2  , 11  , 23  , 24  , 30  , 45  Neg. Part.: 3  , 10  , 12  , 15  , 24  , 69",115494,Skellefteå AIK,MODO Hockey
+07:13,2-0 (EQ),Skellefteå AIK,"23.  Skogs,  Tomas11.  Holloway,  George10.  Lindström,  Joakim","Pos. Part.: 2  , 10  , 11  , 23  , 30  Neg. Part.: 3  , 17  , 28  , 51  , 69",115494,Skellefteå AIK,MODO Hockey
+06:45,2 min,MODO Hockey,"15.  Cumiskey,  Kyle",Tripping  (06:45 - 08:45),115494,Skellefteå AIK,MODO Hockey
+05:24,2 min,Skellefteå AIK,"19.  Forsberg,  Johan",Boarding  (05:24 - 07:24),115494,Skellefteå AIK,MODO Hockey
+04:16,1-0 (EQ),Skellefteå AIK,"45.  Möller,  Oscar11.  Holloway,  George24.  Lindberg,  Oscar","Pos. Part.: 2  , 11  , 23  , 24  , 30  , 45  Neg. Part.: 10  , 12  , 15  , 17  , 51  , 69",115494,Skellefteå AIK,MODO Hockey
+01:42,2 min,Skellefteå AIK,"51.  Styrman,  Fredrik",Holding  (01:42 - 03:42),115494,Skellefteå AIK,MODO Hockey
+00:00,GK In,MODO Hockey,"69.  Ahlsenfelt,  Oscar",,115494,Skellefteå AIK,MODO Hockey
+00:00,GK In,Skellefteå AIK,"30.  Eriksson,  Joacim",,115494,Skellefteå AIK,MODO Hockey
+60:00,GK Out,Skellefteå AIK,"31.  Steen,  Stefan",,168275,Skellefteå AIK,Frölunda HC
+58:27,GK Out,Frölunda HC,"1.  Johansson,  Lars",,168275,Skellefteå AIK,Frölunda HC
+58:13,TO,Frölunda HC,Timeout,,168275,Skellefteå AIK,Frölunda HC
+52:58,2 min,Skellefteå AIK,"15.  Karlsson,  Melker",Roughing  (52:58 - 54:58),168275,Skellefteå AIK,Frölunda HC
+52:58,2 min,Frölunda HC,"56.  Gustafsson,  Erik",Roughing  (52:58 - 54:58),168275,Skellefteå AIK,Frölunda HC
+52:38,2 min,Frölunda HC,"11.  Kahnberg,  Magnus",Interference  (52:38 - 54:38),168275,Skellefteå AIK,Frölunda HC
+48:50,3-2 (PP1),Frölunda HC,"10.  Wennberg,  Alexander41.  Olimb,  Mathis","Pos. Part.: 1  , 10  , 22  , 41  , 61  , 88  Neg. Part.: 3  , 12  , 15  , 31  , 61",168275,Skellefteå AIK,Frölunda HC
+48:44,GK In,Skellefteå AIK,"31.  Steen,  Stefan",,168275,Skellefteå AIK,Frölunda HC
+48:44,GK Out,Skellefteå AIK,"1.  Karlsson,  Henrik",,168275,Skellefteå AIK,Frölunda HC
+47:23,2 min,Skellefteå AIK,"27.  Lundberg,  Martin",Holding  (47:23 - 48:50),168275,Skellefteå AIK,Frölunda HC
+44:47,3-1 (EQ),Frölunda HC,"88.  Johnson,  Andreas96.  Brunnström,  Fabian41.  Olimb,  Mathis","Pos. Part.: 1  , 5  , 41  , 56  , 88  , 96  Neg. Part.: 1  , 2  , 9  , 20  , 27  , 28",168275,Skellefteå AIK,Frölunda HC
+33:58,2 min,Frölunda HC,"57.  Djuse,  Emil",Hooking  (33:58 - 35:58),168275,Skellefteå AIK,Frölunda HC
+32:32,2 min,Frölunda HC,"22.  Figren,  Robin",Roughing  (32:32 - 34:32),168275,Skellefteå AIK,Frölunda HC
+32:32,2 min,Skellefteå AIK,"10.  Lindström,  Joakim",Roughing  (32:32 - 34:32),168275,Skellefteå AIK,Frölunda HC
+32:32,2 min,Skellefteå AIK,"10.  Lindström,  Joakim",Roughing  (34:32 - 36:32),168275,Skellefteå AIK,Frölunda HC
+23:30,3-0 (PP1),Skellefteå AIK,"10.  Lindström,  Joakim4.  Heed,  Tim9.  Arvidsson,  Viktor","Pos. Part.: 1  , 2  , 10  , 11  , 18  , 41  Neg. Part.: 1  , 10  , 43  , 46  , 51",168275,Skellefteå AIK,Frölunda HC
+22:22,2 min,Frölunda HC,"96.  Brunnström,  Fabian",Slashing  (22:22 - 23:30),168275,Skellefteå AIK,Frölunda HC
+20:00,10 min,Frölunda HC,"28.  Axelsson,  Dick",Abuse of Officials  (22:00 - 32:00),168275,Skellefteå AIK,Frölunda HC
+20:00,2 min,Frölunda HC,"28.  Axelsson,  Dick",Slashing  (20:00 - 22:00),168275,Skellefteå AIK,Frölunda HC
+11:39,2 min,Skellefteå AIK,"24.  Frögren,  Jonas",Slashing  (11:39 - 13:39),168275,Skellefteå AIK,Frölunda HC
+08:33,2 min,Skellefteå AIK,"12.  Pettersson,  Adam",Tripping  (08:33 - 10:33),168275,Skellefteå AIK,Frölunda HC
+07:09,2-0 (EQ),Skellefteå AIK,"24.  Frögren,  Jonas3.  Burström,  Niclas10.  Lindström,  Joakim","Pos. Part.: 1  , 3  , 10  , 14  , 15  , 24  Neg. Part.: 1  , 22  , 41  , 43  , 46  , 88",168275,Skellefteå AIK,Frölunda HC
+03:39,2 min,Skellefteå AIK,"24.  Frögren,  Jonas",Interference  (03:39 - 05:39),168275,Skellefteå AIK,Frölunda HC
+03:05,1-0 (PP1),Skellefteå AIK,"10.  Lindström,  Joakim41.  Bellemare,  Pierre-Edouard","Pos. Part.: 1  , 2  , 10  , 11  , 18  , 41  Neg. Part.: 1  , 51  , 56  , 61  , 96",168275,Skellefteå AIK,Frölunda HC
+01:51,2 min,Frölunda HC,"5.  Bäckman,  Christian",Checking to the head  (01:51 - 03:05),168275,Skellefteå AIK,Frölunda HC
+01:51,10 min,Frölunda HC,"5.  Bäckman,  Christian",Misconduct  (03:05 - 13:05),168275,Skellefteå AIK,Frölunda HC
+00:00,GK In,Frölunda HC,"1.  Johansson,  Lars",,168275,Skellefteå AIK,Frölunda HC
+00:00,GK In,Skellefteå AIK,"1.  Karlsson,  Henrik",,168275,Skellefteå AIK,Frölunda HC
+65:00,GK Out,Skellefteå AIK,"35.  Svensson,  Markus",,208881,Luleå HF,Skellefteå AIK
+65:00,GK Out,Luleå HF,"1.  Larsson,  Daniel",,208881,Luleå HF,Skellefteå AIK
+57:17,2 min,Luleå HF,"23.  Wallmark,  Lucas",Roughing  (57:17 - 59:17),208881,Luleå HF,Skellefteå AIK
+57:17,2 min,Skellefteå AIK,"61.  Lindgren,  Fredrik",Roughing  (57:17 - 59:17),208881,Luleå HF,Skellefteå AIK
+57:17,2 min,Luleå HF,"97.  Ledin,  Per",Roughing  (57:17 - 59:17),208881,Luleå HF,Skellefteå AIK
+57:17,2 min,Skellefteå AIK,"3.  Burström,  Niclas",Roughing  (57:17 - 59:17),208881,Luleå HF,Skellefteå AIK
+53:07,Powerbreak,,,,208881,Luleå HF,Skellefteå AIK
+49:21,2 min,Skellefteå AIK,"12.  Pettersson,  Adam",Tripping  (49:21 - 51:21),208881,Luleå HF,Skellefteå AIK
+42:51,2 min,Skellefteå AIK,"27.  Lundberg,  Martin",Crosschecking  (42:51 - 44:51),208881,Luleå HF,Skellefteå AIK
+42:51,2 min,Luleå HF,"24.  Abbott,  Cam",Roughing  (42:51 - 44:51),208881,Luleå HF,Skellefteå AIK
+40:52,2 min,Skellefteå AIK,"7.  Kabanov,  Kirill",Interference  (40:52 - 42:52),208881,Luleå HF,Skellefteå AIK
+33:45,2-2 (PP1),Luleå HF,"97.  Ledin,  Per23.  Wallmark,  Lucas29.  Abbott,  Chris","Pos. Part.: 1  , 23  , 27  , 29  , 51  , 97  Neg. Part.: 3  , 9  , 20  , 35  , 61",208881,Luleå HF,Skellefteå AIK
+33:43,Powerbreak,,,,208881,Luleå HF,Skellefteå AIK
+33:43,2 min,Skellefteå AIK,"37.  Norman,  John",Interference  (33:43 - 33:45),208881,Luleå HF,Skellefteå AIK
+31:04,2 min,Skellefteå AIK,"17.  Lindholm,  Pär",Tripping  (31:04 - 33:04),208881,Luleå HF,Skellefteå AIK
+29:23,1-2 (PP1),Skellefteå AIK,"17.  Lindholm,  Pär","Pos. Part.: 3  , 14  , 17  , 25  , 35  , 37  Neg. Part.: 1  , 8  , 9  , 23  , 51",208881,Luleå HF,Skellefteå AIK
+28:32,2 min,Luleå HF,"24.  Abbott,  Cam",Hooking  (28:32 - 29:23),208881,Luleå HF,Skellefteå AIK
+25:08,2 min,Skellefteå AIK,"7.  Kabanov,  Kirill",Hooking  (25:08 - 27:08),208881,Luleå HF,Skellefteå AIK
+16:50,2 min,Luleå HF,"24.  Abbott,  Cam",Hooking  (16:50 - 18:50),208881,Luleå HF,Skellefteå AIK
+14:13,1-1 (EQ),Skellefteå AIK,"17.  Lindholm,  Pär7.  Kabanov,  Kirill","Pos. Part.: 7  , 17  , 35  , 37  , 52  , 55  Neg. Part.: 1  , 2  , 7  , 9  , 17  , 36",208881,Luleå HF,Skellefteå AIK
+13:33,Powerbreak,,,,208881,Luleå HF,Skellefteå AIK
+11:19,1-0 (PP1),Luleå HF,"7.  Sandström,  Jan5.  Fagerudd,  Marcus14.  Dixon,  Stephen","Pos. Part.: 1  , 5  , 7  , 14  , 24  , 32  Neg. Part.: 17  , 20  , 35  , 52  , 54",208881,Luleå HF,Skellefteå AIK
+09:26,2 min,Skellefteå AIK,"55.  Sevc,  Martin",Slashing  (09:26 - 11:19),208881,Luleå HF,Skellefteå AIK
+05:44,2 min,Luleå HF,"9.  Forsberg,  Johan",Slashing  (05:44 - 07:44),208881,Luleå HF,Skellefteå AIK
+00:00,GK In,Skellefteå AIK,"35.  Svensson,  Markus",,208881,Luleå HF,Skellefteå AIK
+00:00,GK In,Luleå HF,"1.  Larsson,  Daniel",,208881,Luleå HF,Skellefteå AIK
+60:16,GK Out,Djurgårdens IF,"32.  Tellqvist,  Mikael",,252963,Linköping HC,Djurgårdens IF
+60:16,GK Out,Linköping HC,"1.  Högberg,  Marcus",,252963,Linköping HC,Djurgårdens IF
+60:15,3-2 (PP1),Linköping HC,"13.  Gordon,  Andrew  (1)  8.  Forsling,  Gustav49.  Rakhshani,  Rhett","Pos. Part.: 1  , 8  , 12  , 13  , 49  Neg. Part.: 6  , 17  , 32  , 61",252963,Linköping HC,Djurgårdens IF
+58:46,TO,Linköping HC,Timeout,,252963,Linköping HC,Djurgårdens IF
+58:46,2 min,Djurgårdens IF,"41.  Thoresen,  Patrick",Slashing  (58:46 - 60:15),252963,Linköping HC,Djurgårdens IF
+33:25,2 min,Linköping HC,"13.  Gordon,  Andrew",Tripping  (33:25 - 35:25),252963,Linköping HC,Djurgårdens IF
+32:29,2 min,Djurgårdens IF,"6.  Englund,  Andreas",Crosschecking  (32:29 - 34:29),252963,Linköping HC,Djurgårdens IF
+32:29,2 min,Linköping HC,"24.  Andersson,  Fredric",Crosschecking  (32:29 - 34:29),252963,Linköping HC,Djurgårdens IF
+27:14,2-2 (EQ),Linköping HC,"20.  Sörensen,  Nick  (1)  8.  Forsling,  Gustav4.  Billins,  Chad","Pos. Part.: 1  , 4  , 8  , 20  , 36  Neg. Part.: 29  , 32  , 33  , 36  , 41",252963,Linköping HC,Djurgårdens IF
+26:54,2 min,Djurgårdens IF,"17.  Eriksson,  Henrik",Slashing  (26:54 - 28:54),252963,Linköping HC,Djurgårdens IF
+26:03,2 min,Linköping HC,"41.  Little,  Broc",Slashing  (26:03 - 28:03),252963,Linköping HC,Djurgårdens IF
+12:53,1-2 (EQ),Djurgårdens IF,"44.  Vejdemo,  Lukas  (1)  33.  Hultström,  Linus51.  Alvarez,  Robin","Pos. Part.: 32  , 33  , 44  , 45  , 51  , 61  Neg. Part.: 1  , 4  , 8  , 24  , 41  , 43",252963,Linköping HC,Djurgårdens IF
+12:40,1-1 (EQ),Linköping HC,"36.  Fogström,  Niklas  (1)  18.  Lilja,  Jakob44.  Junland,  Jonas","Pos. Part.: 1  , 4  , 8  , 18  , 36  , 43  Neg. Part.: 4  , 26  , 29  , 32  , 36  , 41",252963,Linköping HC,Djurgårdens IF
+08:25,0-1 (EQ),Djurgårdens IF,"33.  Hultström,  Linus  (1)  74.  Hage,  Tobias","Pos. Part.: 17  , 32  , 33  , 52  , 56  , 74  Neg. Part.: 1  , 4  , 17  , 21  , 36  , 48",252963,Linköping HC,Djurgårdens IF
+00:00,GK In,Djurgårdens IF,"32.  Tellqvist,  Mikael",,252963,Linköping HC,Djurgårdens IF
+00:00,GK In,Linköping HC,"1.  Högberg,  Marcus",,252963,Linköping HC,Djurgårdens IF
+60:00,GK Out,Örebro HK,"33.  Hudacek,  Julius",,300978,Färjestad BK,Örebro HK
+60:00,GK Out,Färjestad BK,"30.  Haugen,  Lars",,300978,Färjestad BK,Örebro HK
+59:58,GK In,Örebro HK,"33.  Hudacek,  Julius",,300978,Färjestad BK,Örebro HK
+59:43,GK Out,Örebro HK,"33.  Hudacek,  Julius",,300978,Färjestad BK,Örebro HK
+59:43,TO,Örebro HK,Timeout,,300978,Färjestad BK,Örebro HK
+59:43,2-1 (PP1),Färjestad BK,"22.  Åslund,  Per  (1)  32.  Nygren,  Magnus10.  Nilsson,  Marcus","Pos. Part.: 10  , 22  , 23  , 30  , 32  , 61  Neg. Part.: 14  , 33  , 54  , 85  , 88",300978,Färjestad BK,Örebro HK
+58:58,TO,Färjestad BK,Timeout,,300978,Färjestad BK,Örebro HK
+58:58,2 min,Örebro HK,"7.  Hellström,  Alexander",Puck out of bounds or unplayable  (58:58 - 59:43),300978,Färjestad BK,Örebro HK
+51:26,2 min,Örebro HK,Team penalty,Too many players on the ice  (51:26 - 53:26),300978,Färjestad BK,Örebro HK
+36:09,2 min,Färjestad BK,"55.  Tollefsen,  Ole Kristian",Charging  (36:09 - 38:09),300978,Färjestad BK,Örebro HK
+28:16,1-1 (PP1),Färjestad BK,"61.  Ryno,  Johan  (1)  74.  Asplund,  Rasmus32.  Nygren,  Magnus","Pos. Part.: 16  , 22  , 30  , 32  , 61  , 74  Neg. Part.: 33  , 54  , 56  , 85  , 88",300978,Färjestad BK,Örebro HK
+27:27,2 min,Örebro HK,Team penalty,Too many players on the ice  (27:27 - 28:16),300978,Färjestad BK,Örebro HK
+22:16,2 min,Örebro HK,"53.  Petersson,  Bobo",Interference  (22:16 - 24:16),300978,Färjestad BK,Örebro HK
+14:55,2 min,Färjestad BK,"29.  Steen,  Oskar",Slashing  (14:55 - 16:55),300978,Färjestad BK,Örebro HK
+13:38,0-1 (EQ),Örebro HK,"56.  Wiklander,  Johan  (1)  20.  Weinstock,  Marcus","Pos. Part.: 5  , 33  , 41  , 51  , 56  , 88  Neg. Part.: 7  , 13  , 18  , 30  , 50  , 91",300978,Färjestad BK,Örebro HK
+06:32,2 min,Färjestad BK,"11.  Nygård,  Joakim",Boarding  (06:32 - 08:32),300978,Färjestad BK,Örebro HK
+03:46,2 min,Örebro HK,"90.  Hudacek,  Libor",Hooking  (03:46 - 05:46),300978,Färjestad BK,Örebro HK
+00:00,GK In,Örebro HK,"33.  Hudacek,  Julius",,300978,Färjestad BK,Örebro HK
+00:00,GK In,Färjestad BK,"30.  Haugen,  Lars",,300978,Färjestad BK,Örebro HK
+60:00,GK Out,HV 71,"30.  Söderström,  Linus",,347209,HV 71,Djurgårdens IF
+60:00,GK Out,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+59:57,GK In,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+58:50,GK Out,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+58:41,GK In,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+58:41,4-2 (SH1)ENG,HV 71,"28.  Bengtsson,  Anton  (1)  6.  Persson,  Christoffer","Pos. Part.: 2  , 4  , 6  , 28  , 30  Neg. Part.: 4  , 17  , 19  , 21  , 37  , 76",347209,HV 71,Djurgårdens IF
+57:58,GK Out,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+56:59,2 min,HV 71,"21.  Tedenby,  Mattias",Hooking  (56:59 - 58:59),347209,HV 71,Djurgårdens IF
+45:34,3-2 (EQ),HV 71,"17.  Brännström,  Isac  (1)  20.  Pilut,  Lawrence88.  Engvall,  Pierre","Pos. Part.: 17  , 20  , 26  , 27  , 30  , 88  Neg. Part.: 4  , 30  , 37  , 47  , 52  , 79",347209,HV 71,Djurgårdens IF
+44:21,2-2 (EQ),Djurgårdens IF,"21.  Engqvist,  Andreas  (1)  37.  Pettersson,  Jesper80.  Possler,  Gustav","Pos. Part.: 4  , 19  , 21  , 30  , 37  , 80  Neg. Part.: 6  , 10  , 23  , 29  , 30  , 42",347209,HV 71,Djurgårdens IF
+42:01,TO,Djurgårdens IF,Timeout,,347209,HV 71,Djurgårdens IF
+36:46,2-1 (EQ),HV 71,"88.  Engvall,  Pierre  (1)","Pos. Part.: 2  , 6  , 17  , 27  , 30  , 88  Neg. Part.: 30  , 41  , 43  , 44  , 71  , 91",347209,HV 71,Djurgårdens IF
+35:08,1-1 (EQ),Djurgårdens IF,"71.  Davidsson,  Jonathan  (1)  91.  Jonsson-Fjällby,  Axel44.  Vejdemo,  Lukas","Pos. Part.: 4  , 30  , 44  , 55  , 71  , 91  Neg. Part.: 9  , 19  , 20  , 26  , 30  , 73",347209,HV 71,Djurgårdens IF
+25:15,2 min,HV 71,"29.  Ullström,  David",Highsticking  (27:15 - 29:15),347209,HV 71,Djurgårdens IF
+25:15,2 min,HV 71,"29.  Ullström,  David",Highsticking  (25:15 - 27:15),347209,HV 71,Djurgårdens IF
+16:10,2 min,Djurgårdens IF,"10.  Bergfors,  Niclas",Puck out of bounds or unplayable  (16:10 - 18:10),347209,HV 71,Djurgårdens IF
+08:09,1-0 (PP1),HV 71,"73.  Wännström,  Sebastian  (1)  9.  Ejdsell,  Victor20.  Pilut,  Lawrence","Pos. Part.: 9  , 10  , 20  , 29  , 30  , 73  Neg. Part.: 4  , 17  , 30  , 43  , 61",347209,HV 71,Djurgårdens IF
+07:35,2 min,Djurgårdens IF,"55.  Urbom,  Alexander",Hooking  (07:35 - 08:09),347209,HV 71,Djurgårdens IF
+00:00,GK In,Djurgårdens IF,"30.  Eriksson,  Joacim",,347209,HV 71,Djurgårdens IF
+00:00,GK In,HV 71,"30.  Söderström,  Linus",,347209,HV 71,Djurgårdens IF
+60:00,GK Out,Timrå IK,"89.  Svedberg,  Niklas",,393304,Linköping HC,Timrå IK
+60:00,GK Out,Linköping HC,"50.  Gustavsson,  Jonas",,393304,Linköping HC,Timrå IK
+57:42,GK In,Timrå IK,"89.  Svedberg,  Niklas",,393304,Linköping HC,Timrå IK
+57:42,4-1 (EQ)ENG,Linköping HC,"20.  Sörensen,  Nick  (2)  22.  Brodecki,  Adam36.  Karlsson,  Filip","Pos. Part.: 4  , 20  , 22  , 36  , 50  , 53  Neg. Part.: 7  , 23  , 44  , 49  , 55  , 79",393304,Linköping HC,Timrå IK
+57:24,GK Out,Timrå IK,"89.  Svedberg,  Niklas",,393304,Linköping HC,Timrå IK
+57:24,TO,Timrå IK,Timeout,,393304,Linköping HC,Timrå IK
+37:38,2 min,Linköping HC,"37.  Ginning,  Adam",Tripping  (37:38 - 39:38),393304,Linköping HC,Timrå IK
+27:24,3-1 (EQ),Linköping HC,"38.  Södergran,  Johan  (1)  22.  Brodecki,  Adam31.  Lycksell,  Olle","Pos. Part.: 22  , 31  , 32  , 38  , 47  , 50  Neg. Part.: 9  , 24  , 27  , 38  , 44  , 89",393304,Linköping HC,Timrå IK
+24:05,2 min,Timrå IK,"49.  Collberg,  Sebastian",Hooking  (24:05 - 26:05),393304,Linköping HC,Timrå IK
+15:21,2-1 (EQ),Linköping HC,"20.  Sörensen,  Nick  (1)  36.  Karlsson,  Filip","Pos. Part.: 20  , 32  , 36  , 47  , 50  , 84  Neg. Part.: 22  , 23  , 24  , 27  , 57  , 89",393304,Linköping HC,Timrå IK
+11:20,1-1 (EQ),Linköping HC,"22.  Brodecki,  Adam  (1)  38.  Södergran,  Johan31.  Lycksell,  Olle","Pos. Part.: 3  , 22  , 31  , 38  , 50  , 53  Neg. Part.: 7  , 9  , 28  , 38  , 44  , 89",393304,Linköping HC,Timrå IK
+08:50,2 min,Timrå IK,"41.  Falk,  Alexander",Crosschecking  (08:50 - 10:50),393304,Linköping HC,Timrå IK
+06:47,0-1 (EQ),Timrå IK,"49.  Collberg,  Sebastian  (1)  55.  Gallo,  Vilmos","Pos. Part.: 7  , 24  , 49  , 55  , 79  , 89  Neg. Part.: 3  , 22  , 31  , 32  , 38  , 50",393304,Linköping HC,Timrå IK
+03:22,2 min,Linköping HC,"41.  Little,  Broc",Tripping  (03:22 - 05:22),393304,Linköping HC,Timrå IK
+00:00,GK In,Timrå IK,"89.  Svedberg,  Niklas",,393304,Linköping HC,Timrå IK
+00:00,GK In,Linköping HC,"50.  Gustavsson,  Jonas",,393304,Linköping HC,Timrå IK
+60:00,GK Out,Frölunda HC,"41.  Rubin,  Niklas",,441805,Frölunda HC,Brynäs IF
+60:00,GK Out,Brynäs IF,"30.  Eriksson,  Joacim",,441805,Frölunda HC,Brynäs IF
+56:11,2-5 (PP1),Frölunda HC,"59.  Hjalmarsson,  Simon  (1)  20.  Lundqvist,  Joel3.  Moverare,  Jacob","Pos. Part.: 3  , 20  , 41  , 49  , 59  , 81  Neg. Part.: 4  , 5  , 30  , 44  , 72",441805,Frölunda HC,Brynäs IF
+55:58,2 min,Brynäs IF,"56.  Sigalet,  Jonathan",Hooking  (55:58 - 56:11),441805,Frölunda HC,Brynäs IF
+46:34,1-5 (EQ),Frölunda HC,"15.  Grönlund,  Anders  (1)  40.  Mustonen,  Joel63.  Bergman,  Julius","Pos. Part.: 12  , 15  , 20  , 40  , 41  , 63  Neg. Part.: 5  , 18  , 30  , 41  , 66  , 88",441805,Frölunda HC,Brynäs IF
+38:02,0-5 (EQ),Brynäs IF,"22.  Brodecki,  Adam  (1)  51.  Sallinen,  Tomi","Pos. Part.: 11  , 22  , 28  , 30  , 51  , 56  Neg. Part.: 12  , 15  , 20  , 40  , 41  , 63",441805,Frölunda HC,Brynäs IF
+28:46,2 min,Brynäs IF,"79.  Mannberg,  Daniel",Holding  (28:46 - 30:46),441805,Frölunda HC,Brynäs IF
+28:46,2 min,Frölunda HC,"49.  Rakhshani,  Rhett",Holding  (28:46 - 30:46),441805,Frölunda HC,Brynäs IF
+26:49,GK In,Frölunda HC,"41.  Rubin,  Niklas",,441805,Frölunda HC,Brynäs IF
+26:49,0-4 (EQ),Brynäs IF,"18.  Rödin,  Anton  (1)  41.  Scott,  Greg","Pos. Part.: 11  , 18  , 30  , 41  , 51  , 56  Neg. Part.: 7  , 8  , 17  , 33  , 44  , 51",441805,Frölunda HC,Brynäs IF
+26:49,GK Out,Frölunda HC,"33.  Mattsson,  Johan",,441805,Frölunda HC,Brynäs IF
+24:22,2 min,Brynäs IF,"41.  Scott,  Greg",Holding  (24:22 - 26:22),441805,Frölunda HC,Brynäs IF
+21:57,0-3 (EQ),Brynäs IF,"44.  Blomqvist,  Jacob  (1)  79.  Mannberg,  Daniel72.  Rohdin,  Joachim","Pos. Part.: 5  , 30  , 44  , 47  , 72  , 79  Neg. Part.: 15  , 33  , 59  , 63  , 72  , 81",441805,Frölunda HC,Brynäs IF
+17:03,2 min,Brynäs IF,"66.  Lindelöf,  Alexander",Roughing  (17:03 - 19:03),441805,Frölunda HC,Brynäs IF
+17:03,2 min,Frölunda HC,"31.  Lasu,  Nicklas",Roughing  (17:03 - 19:03),441805,Frölunda HC,Brynäs IF
+15:56,0-2 (EQ),Brynäs IF,"79.  Mannberg,  Daniel  (1)","Pos. Part.: 11  , 30  , 44  , 56  , 72  , 79  Neg. Part.: 15  , 28  , 33  , 49  , 51  , 55",441805,Frölunda HC,Brynäs IF
+08:48,0-1 (PP1),Brynäs IF,"74.  Danielsson,  Nicklas  (1)  18.  Rödin,  Anton56.  Sigalet,  Jonathan","Pos. Part.: 18  , 30  , 41  , 56  , 74  , 88  Neg. Part.: 3  , 8  , 12  , 33  , 51",441805,Frölunda HC,Brynäs IF
+08:08,2 min,Frölunda HC,"55.  Printz,  David",Tripping  (08:08 - 08:48),441805,Frölunda HC,Brynäs IF
+04:17,2 min,Brynäs IF,"18.  Rödin,  Anton",Slashing  (04:17 - 06:17),441805,Frölunda HC,Brynäs IF
+00:00,GK In,Brynäs IF,"30.  Eriksson,  Joacim",,441805,Frölunda HC,Brynäs IF
+00:00,GK In,Frölunda HC,"33.  Mattsson,  Johan",,441805,Frölunda HC,Brynäs IF
+64:39,GK Out,Leksands IF,"30.  Juvonen,  Janne",,490388,Leksands IF,Skellefteå AIK
+64:39,GK Out,Skellefteå AIK,"30.  Lindvall,  Gustaf",,490388,Leksands IF,Skellefteå AIK
+64:39,4-5 (EQ),Skellefteå AIK,"24.  Wingerli,  Andreas  (1)","Pos. Part.: 5  , 24  , 30  , 86  Neg. Part.: 9  , 16  , 21  , 30",490388,Leksands IF,Skellefteå AIK
+59:51,GK In,Leksands IF,"30.  Juvonen,  Janne",,490388,Leksands IF,Skellefteå AIK
+59:51,4-4 (EQ),Leksands IF,"34.  Cehlarik,  Peter  (2)  27.  Hrivik,  Marek8.  Caito,  Matt","Pos. Part.: 8  , 16  , 21  , 25  , 27  , 34  Neg. Part.: 3  , 24  , 30  , 45  , 58  , 96",490388,Leksands IF,Skellefteå AIK
+57:26,GK Out,Leksands IF,"30.  Juvonen,  Janne",,490388,Leksands IF,Skellefteå AIK
+56:45,3-4 (EQ),Leksands IF,"7.  Nordsäter,  Lucas  (1)  9.  Zackrisson,  Patrik5.  Själin,  Calle","Pos. Part.: 5  , 7  , 9  , 17  , 29  , 30  Neg. Part.: 3  , 19  , 30  , 38  , 52  , 86",490388,Leksands IF,Skellefteå AIK
+54:21,2-4 (EQ),Leksands IF,"34.  Cehlarik,  Peter  (1)  27.  Hrivik,  Marek","Pos. Part.: 3  , 9  , 26  , 27  , 30  , 34  Neg. Part.: 10  , 19  , 22  , 30  , 45  , 86",490388,Leksands IF,Skellefteå AIK
+52:20,2 min,Leksands IF,"9.  Zackrisson,  Patrik",Tripping  (52:20 - 54:20),490388,Leksands IF,Skellefteå AIK
+44:12,2 min,Skellefteå AIK,"23.  Andersson,  Jacob",Slashing  (44:12 - 46:12),490388,Leksands IF,Skellefteå AIK
+43:20,TO,Skellefteå AIK,Timeout,,490388,Leksands IF,Skellefteå AIK
+40:00,GK In,Leksands IF,"30.  Juvonen,  Janne",,490388,Leksands IF,Skellefteå AIK
+40:00,GK Out,Leksands IF,"33.  Brage,  Axel",,490388,Leksands IF,Skellefteå AIK
+35:57,1-4 (PP1),Skellefteå AIK,"5.  Broberg,  Philip  (1)  45.  Möller,  Oscar24.  Wingerli,  Andreas","Pos. Part.: 3  , 5  , 10  , 24  , 30  , 45  Neg. Part.: 3  , 14  , 15  , 28  , 33",490388,Leksands IF,Skellefteå AIK
+34:27,2 min,Leksands IF,"66.  Åman,  Nils",Hooking  (34:27 - 35:57),490388,Leksands IF,Skellefteå AIK
+32:38,2 min,Skellefteå AIK,"23.  Andersson,  Jacob",Hooking  (32:38 - 34:38),490388,Leksands IF,Skellefteå AIK
+31:20,1-3 (EQ),Skellefteå AIK,"3.  Burström,  Niclas  (1)  48.  Berggren,  Jonatan5.  Broberg,  Philip","Pos. Part.: 3  , 5  , 24  , 28  , 30  , 48  Neg. Part.: 5  , 7  , 9  , 17  , 27  , 33",490388,Leksands IF,Skellefteå AIK
+29:16,2 min,Leksands IF,"27.  Hrivik,  Marek",Slashing  (29:16 - 31:16),490388,Leksands IF,Skellefteå AIK
+20:52,2 min,Skellefteå AIK,"2.  Wilsby,  Adam",Slashing  (20:52 - 22:52),490388,Leksands IF,Skellefteå AIK
+18:26,1-2 (EQ),Leksands IF,"16.  Gunnarsson,  Daniel  (1)  25.  Camper,  Carter34.  Cehlarik,  Peter","Pos. Part.: 16  , 25  , 26  , 27  , 33  , 34  Neg. Part.: 2  , 10  , 16  , 30  , 45  , 58",490388,Leksands IF,Skellefteå AIK
+14:21,0-2 (PP1),Skellefteå AIK,"28.  Frödén,  Jesper  (1)  3.  Burström,  Niclas5.  Broberg,  Philip","Pos. Part.: 3  , 5  , 24  , 28  , 30  , 48  Neg. Part.: 11  , 13  , 16  , 26  , 33",490388,Leksands IF,Skellefteå AIK
+14:01,2 min,Leksands IF,"14.  Lang,  Oskar",Hooking  (14:01 - 14:21),490388,Leksands IF,Skellefteå AIK
+09:48,2 min,Skellefteå AIK,"2.  Wilsby,  Adam",Tripping  (09:48 - 11:48),490388,Leksands IF,Skellefteå AIK
+04:07,0-1 (PP1),Skellefteå AIK,"48.  Berggren,  Jonatan  (1)  3.  Burström,  Niclas24.  Wingerli,  Andreas","Pos. Part.: 3  , 5  , 24  , 28  , 30  , 48  Neg. Part.: 13  , 16  , 26  , 33  , 66",490388,Leksands IF,Skellefteå AIK
+02:46,2 min,Leksands IF,"8.  Caito,  Matt",Hooking  (02:46 - 04:07),490388,Leksands IF,Skellefteå AIK
+00:00,GK In,Skellefteå AIK,"30.  Lindvall,  Gustaf",,490388,Leksands IF,Skellefteå AIK
+00:00,GK In,Leksands IF,"33.  Brage,  Axel",,490388,Leksands IF,Skellefteå AIK

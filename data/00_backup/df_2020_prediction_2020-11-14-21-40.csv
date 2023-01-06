@@ -1,0 +1,150 @@
+,date,game,score,league,season,game_id,home,away,score_home,actual,predicted,prob_home,prob_draw,prob_away,correct
+0,2020-10-01,Leksands IF  - Örebro HK,3 - 5,shl,2020/21,490420.0,Leksands IF,Örebro HK,3.0,away,home,0.51,0.22,0.27,0
+1,2020-10-01,Luleå HF  - HV 71,5 - 4,shl,2020/21,490424.0,Luleå HF,HV 71,5.0,home,home,0.67,0.12,0.21,1
+2,2020-10-01,Skellefteå AIK  - Frölunda HC,3 - 1,shl,2020/21,490425.0,Skellefteå AIK,Frölunda HC,3.0,home,home,0.56,0.17,0.27,1
+3,2020-10-01,Växjö Lakers HC  - Rögle BK,2 - 1,shl,2020/21,490427.0,Växjö Lakers HC,Rögle BK,2.0,home,home,0.4,0.24,0.36,1
+4,2020-10-01,Linköping HC  - Brynäs IF,5 - 4,shl,2020/21,490428.0,Linköping HC,Brynäs IF,5.0,draw,home,0.41,0.26,0.33,0
+5,2020-10-01,IK Oskarshamn  - Färjestad BK,4 - 2,shl,2020/21,490429.0,IK Oskarshamn,Färjestad BK,4.0,home,home,0.38,0.25,0.37,1
+6,2020-10-03,Luleå HF  - Växjö Lakers HC,2 - 1,shl,2020/21,490431.0,Luleå HF,Växjö Lakers HC,2.0,home,home,0.45,0.23,0.32,1
+7,2020-10-03,Brynäs IF  - Skellefteå AIK,3 - 2,shl,2020/21,490432.0,Brynäs IF,Skellefteå AIK,3.0,home,away,0.39,0.2,0.41,0
+8,2020-10-03,Färjestad BK  - IF Malmö Redhawks,2 - 4,shl,2020/21,490434.0,Färjestad BK,IF Malmö Redhawks,2.0,away,home,0.44,0.37,0.19,0
+9,2020-10-03,HV 71  - IK Oskarshamn,6 - 3,shl,2020/21,490435.0,HV 71,IK Oskarshamn,6.0,home,home,0.49,0.26,0.25,1
+10,2020-10-03,Örebro HK  - Linköping HC,6 - 4,shl,2020/21,490436.0,Örebro HK,Linköping HC,6.0,home,home,0.43,0.27,0.3,1
+11,2020-10-03,Frölunda HC  - Leksands IF,4 - 2,shl,2020/21,490437.0,Frölunda HC,Leksands IF,4.0,home,home,0.65,0.17,0.18,1
+12,2020-10-08,Skellefteå AIK  - HV 71,4 - 2,shl,2020/21,490438.0,Skellefteå AIK,HV 71,4.0,home,home,0.54,0.26,0.2,1
+13,2020-10-08,Leksands IF  - Växjö Lakers HC,0 - 2,shl,2020/21,490439.0,Leksands IF,Växjö Lakers HC,0.0,away,home,0.41,0.22,0.37,0
+14,2020-10-08,Djurgårdens IF  - Luleå HF,3 - 2,shl,2020/21,490440.0,Djurgårdens IF,Luleå HF,3.0,draw,away,0.39,0.17,0.44,0
+15,2020-10-08,Färjestad BK  - Linköping HC,5 - 4,shl,2020/21,490441.0,Färjestad BK,Linköping HC,5.0,home,home,0.44,0.18,0.38,1
+16,2020-10-08,IK Oskarshamn  - Rögle BK,2 - 3,shl,2020/21,490442.0,IK Oskarshamn,Rögle BK,2.0,away,away,0.32,0.28,0.4,1
+17,2020-10-08,IF Malmö Redhawks  - Örebro HK,2 - 1,shl,2020/21,490443.0,IF Malmö Redhawks,Örebro HK,2.0,home,draw,0.31,0.35,0.34,0
+18,2020-10-08,Frölunda HC  - Brynäs IF,3 - 0,shl,2020/21,490444.0,Frölunda HC,Brynäs IF,3.0,home,home,0.51,0.17,0.32,1
+19,2020-10-10,Luleå HF  - Brynäs IF,2 - 3,shl,2020/21,490445.0,Luleå HF,Brynäs IF,2.0,draw,home,0.49,0.29,0.22,0
+20,2020-10-10,Djurgårdens IF  - IK Oskarshamn,3 - 4,shl,2020/21,490446.0,Djurgårdens IF,IK Oskarshamn,3.0,away,home,0.57,0.24,0.19,0
+21,2020-10-10,Rögle BK  - Örebro HK,3 - 1,shl,2020/21,490447.0,Rögle BK,Örebro HK,3.0,home,home,0.56,0.22,0.22,1
+22,2020-10-10,Växjö Lakers HC  - Skellefteå AIK,1 - 3,shl,2020/21,490448.0,Växjö Lakers HC,Skellefteå AIK,1.0,away,home,0.48,0.14,0.38,0
+23,2020-10-10,Linköping HC  - Leksands IF,1 - 4,shl,2020/21,490449.0,Linköping HC,Leksands IF,1.0,away,home,0.49,0.2,0.31,0
+24,2020-10-10,HV 71  - Färjestad BK,2 - 3,shl,2020/21,490450.0,HV 71,Färjestad BK,2.0,draw,home,0.41,0.21,0.38,0
+25,2020-10-12,Frölunda HC  - Skellefteå AIK,3 - 2,shl,2020/21,490597.0,Frölunda HC,Skellefteå AIK,3.0,draw,home,0.5,0.24,0.26,0
+26,2020-10-15,Skellefteå AIK  - Färjestad BK,1 - 0,shl,2020/21,490452.0,Skellefteå AIK,Färjestad BK,1.0,home,home,0.44,0.27,0.29,1
+27,2020-10-15,Örebro HK  - Luleå HF,1 - 2,shl,2020/21,490453.0,Örebro HK,Luleå HF,1.0,draw,home,0.56,0.19,0.25,0
+28,2020-10-15,Brynäs IF  - Rögle BK,2 - 1,shl,2020/21,490454.0,Brynäs IF,Rögle BK,2.0,home,home,0.46,0.23,0.31,1
+29,2020-10-15,Linköping HC  - Djurgårdens IF,5 - 4,shl,2020/21,490455.0,Linköping HC,Djurgårdens IF,5.0,home,home,0.54,0.13,0.33,1
+30,2020-10-15,HV 71  - IF Malmö Redhawks,5 - 2,shl,2020/21,490456.0,HV 71,IF Malmö Redhawks,5.0,home,away,0.45,0.08,0.47,0
+31,2020-10-15,IK Oskarshamn  - Leksands IF,5 - 2,shl,2020/21,490457.0,IK Oskarshamn,Leksands IF,5.0,home,away,0.4,0.15,0.45,0
+32,2020-10-15,Frölunda HC  - Växjö Lakers HC,3 - 2,shl,2020/21,490458.0,Frölunda HC,Växjö Lakers HC,3.0,home,home,0.44,0.36,0.2,1
+33,2020-10-17,Växjö Lakers HC  - Brynäs IF,5 - 1,shl,2020/21,490459.0,Växjö Lakers HC,Brynäs IF,5.0,home,home,0.47,0.22,0.31,1
+34,2020-10-17,IK Oskarshamn  - Örebro HK,2 - 3,shl,2020/21,490460.0,IK Oskarshamn,Örebro HK,2.0,away,home,0.42,0.19,0.39,0
+35,2020-10-17,IF Malmö Redhawks  - Luleå HF,2 - 4,shl,2020/21,490461.0,IF Malmö Redhawks,Luleå HF,2.0,away,away,0.33,0.17,0.5,1
+36,2020-10-17,Leksands IF  - Rögle BK,3 - 2,shl,2020/21,490463.0,Leksands IF,Rögle BK,3.0,draw,away,0.33,0.31,0.36,0
+37,2020-10-17,Skellefteå AIK  - Linköping HC,3 - 2,shl,2020/21,490462.0,Skellefteå AIK,Linköping HC,3.0,home,home,0.52,0.21,0.27,1
+38,2020-10-17,Djurgårdens IF  - HV 71,6 - 3,shl,2020/21,490464.0,Djurgårdens IF,HV 71,6.0,home,home,0.47,0.18,0.35,1
+39,2020-10-17,Färjestad BK  - Frölunda HC,3 - 0,shl,2020/21,490465.0,Färjestad BK,Frölunda HC,3.0,home,away,0.31,0.25,0.44,0
+40,2020-10-20,Leksands IF  - Djurgårdens IF,3 - 2,shl,2020/21,490402.0,Leksands IF,Djurgårdens IF,3.0,draw,home,0.37,0.29,0.34,0
+41,2020-10-20,IF Malmö Redhawks  - Frölunda HC,2 - 6,shl,2020/21,490451.0,IF Malmö Redhawks,Frölunda HC,2.0,away,away,0.32,0.18,0.5,1
+42,2020-10-22,Luleå HF  - Leksands IF,5 - 2,shl,2020/21,490466.0,Luleå HF,Leksands IF,5.0,home,home,0.49,0.28,0.23,1
+43,2020-10-22,Rögle BK  - Frölunda HC,5 - 4,shl,2020/21,490468.0,Rögle BK,Frölunda HC,5.0,home,home,0.48,0.26,0.26,1
+44,2020-10-22,Färjestad BK  - Örebro HK,7 - 3,shl,2020/21,490469.0,Färjestad BK,Örebro HK,7.0,home,home,0.49,0.24,0.27,1
+45,2020-10-22,HV 71  - Brynäs IF,6 - 4,shl,2020/21,490471.0,HV 71,Brynäs IF,6.0,home,home,0.43,0.22,0.35,1
+46,2020-10-22,Växjö Lakers HC  - IF Malmö Redhawks,4 - 3,shl,2020/21,490472.0,Växjö Lakers HC,IF Malmö Redhawks,4.0,home,home,0.53,0.29,0.18,1
+47,2020-10-24,Skellefteå AIK  - Rögle BK,,shl,2020/21,,Skellefteå AIK,Rögle BK,,,home,0.51,0.16,0.33,0
+48,2020-10-24,Leksands IF  - Färjestad BK,,shl,2020/21,,Leksands IF,Färjestad BK,,,home,0.42,0.33,0.25,0
+49,2020-10-24,Frölunda HC  - Luleå HF,,shl,2020/21,,Frölunda HC,Luleå HF,,,home,0.45,0.24,0.31,0
+50,2020-10-24,IK Oskarshamn  - IF Malmö Redhawks,,shl,2020/21,,IK Oskarshamn,IF Malmö Redhawks,,,home,0.53,0.21,0.26,0
+51,2020-10-24,Örebro HK  - Växjö Lakers HC,,shl,2020/21,,Örebro HK,Växjö Lakers HC,,,home,0.41,0.23,0.36,0
+52,2020-10-27,Luleå HF  - Linköping HC,,shl,2020/21,,Luleå HF,Linköping HC,,,home,0.59,0.23,0.18,0
+53,2020-10-27,Leksands IF  - HV 71,,shl,2020/21,,Leksands IF,HV 71,,,away,0.34,0.19,0.47,0
+54,2020-10-27,Örebro HK  - Brynäs IF,,shl,2020/21,,Örebro HK,Brynäs IF,,,home,0.45,0.25,0.3,0
+55,2020-10-27,Växjö Lakers HC  - Djurgårdens IF,,shl,2020/21,,Växjö Lakers HC,Djurgårdens IF,,,home,0.55,0.22,0.23,0
+56,2020-10-27,Färjestad BK  - Rögle BK,,shl,2020/21,,Färjestad BK,Rögle BK,,,home,0.49,0.27,0.24,0
+57,2020-10-27,IK Oskarshamn  - Frölunda HC,,shl,2020/21,,IK Oskarshamn,Frölunda HC,,,away,0.33,0.26,0.41,0
+58,2020-10-27,IF Malmö Redhawks  - Skellefteå AIK,,shl,2020/21,,IF Malmö Redhawks,Skellefteå AIK,,,away,0.29,0.18,0.53,0
+59,2020-10-29,Skellefteå AIK  - IK Oskarshamn,,shl,2020/21,,Skellefteå AIK,IK Oskarshamn,,,home,0.38,0.35,0.27,0
+60,2020-10-29,Brynäs IF  - Leksands IF,,shl,2020/21,,Brynäs IF,Leksands IF,,,home,0.46,0.31,0.23,0
+61,2020-10-29,Djurgårdens IF  - Färjestad BK,,shl,2020/21,,Djurgårdens IF,Färjestad BK,,,home,0.59,0.15,0.26,0
+62,2020-10-29,Rögle BK  - Luleå HF,,shl,2020/21,,Rögle BK,Luleå HF,,,home,0.63,0.17,0.2,0
+63,2020-10-29,Linköping HC  - IF Malmö Redhawks,,shl,2020/21,,Linköping HC,IF Malmö Redhawks,,,home,0.6,0.1,0.3,0
+64,2020-10-29,HV 71  - Växjö Lakers HC,,shl,2020/21,,HV 71,Växjö Lakers HC,,,home,0.44,0.22,0.34,0
+65,2020-10-29,Frölunda HC  - Örebro HK,,shl,2020/21,,Frölunda HC,Örebro HK,,,home,0.54,0.3,0.16,0
+66,2020-10-31,IK Oskarshamn  - Linköping HC,,shl,2020/21,,IK Oskarshamn,Linköping HC,,,home,0.58,0.16,0.26,0
+67,2020-10-31,IF Malmö Redhawks  - Färjestad BK,,shl,2020/21,,IF Malmö Redhawks,Färjestad BK,,,home,0.45,0.19,0.36,0
+68,2020-10-31,Örebro HK  - Skellefteå AIK,,shl,2020/21,,Örebro HK,Skellefteå AIK,,,home,0.48,0.29,0.23,0
+69,2020-10-31,Brynäs IF  - Djurgårdens IF,,shl,2020/21,,Brynäs IF,Djurgårdens IF,,,home,0.42,0.31,0.27,0
+70,2020-10-31,Luleå HF  - Rögle BK,,shl,2020/21,,Luleå HF,Rögle BK,,,home,0.57,0.13,0.3,0
+71,2020-10-31,Leksands IF  - Frölunda HC,,shl,2020/21,,Leksands IF,Frölunda HC,,,away,0.31,0.23,0.46,0
+72,2020-10-31,Växjö Lakers HC  - HV 71,,shl,2020/21,,Växjö Lakers HC,HV 71,,,home,0.58,0.16,0.26,0
+73,2020-11-10,Luleå HF  - Frölunda HC,,shl,2020/21,,Luleå HF,Frölunda HC,,,home,0.57,0.19,0.24,0
+74,2020-11-10,Brynäs IF  - HV 71,,shl,2020/21,,Brynäs IF,HV 71,,,home,0.44,0.27,0.29,0
+75,2020-11-10,Växjö Lakers HC  - Örebro HK,,shl,2020/21,,Växjö Lakers HC,Örebro HK,,,home,0.48,0.25,0.27,0
+76,2020-11-10,Färjestad BK  - Leksands IF,,shl,2020/21,,Färjestad BK,Leksands IF,,,home,0.58,0.14,0.28,0
+77,2020-11-10,Linköping HC  - Skellefteå AIK,,shl,2020/21,,Linköping HC,Skellefteå AIK,,,home,0.47,0.24,0.29,0
+78,2020-11-10,IK Oskarshamn  - Djurgårdens IF,,shl,2020/21,,IK Oskarshamn,Djurgårdens IF,,,home,0.41,0.25,0.34,0
+79,2020-11-10,IF Malmö Redhawks  - Rögle BK,,shl,2020/21,,IF Malmö Redhawks,Rögle BK,,,away,0.35,0.26,0.39,0
+80,2020-11-12,Djurgårdens IF  - Linköping HC,,shl,2020/21,,Djurgårdens IF,Linköping HC,,,home,0.51,0.25,0.24,0
+81,2020-10-05,Tingsryds AIF  - Almtuna IS,4 - 2,allsvenskan,2020/21,490323.0,Tingsryds AIF,Almtuna IS,4.0,home,home,0.56,0.12,0.32,1
+82,2020-10-07,Södertälje SK  - Almtuna IS,2 - 4,allsvenskan,2020/21,490236.0,Södertälje SK,Almtuna IS,2.0,away,home,0.48,0.2,0.32,0
+83,2020-10-07,AIK  - Väsby IK HK,4 - 1,allsvenskan,2020/21,490238.0,AIK,Väsby IK HK,4.0,home,away,0.29,0.35,0.36,0
+84,2020-10-07,Västerås IK  - Kristianstads IK,3 - 2,allsvenskan,2020/21,490693.0,Västerås IK,Kristianstads IK,3.0,draw,home,0.45,0.26,0.29,0
+85,2020-10-09,Väsby IK HK  - AIK,3 - 1,allsvenskan,2020/21,490242.0,Väsby IK HK,AIK,3.0,home,home,0.35,0.34,0.31,1
+86,2020-10-09,BIK Karlskoga  - HC Vita Hästen,5 - 3,allsvenskan,2020/21,490243.0,BIK Karlskoga,HC Vita Hästen,5.0,home,home,0.41,0.31,0.28,1
+87,2020-10-10,MODO Hockey  - Almtuna IS,0 - 2,allsvenskan,2020/21,490247.0,MODO Hockey,Almtuna IS,0.0,away,away,0.41,0.17,0.42,1
+88,2020-10-11,Kristianstads IK  - Södertälje SK,0 - 6,allsvenskan,2020/21,490366.0,Kristianstads IK,Södertälje SK,0.0,away,away,0.39,0.21,0.4,1
+89,2020-10-11,Tingsryds AIF  - AIK,3 - 5,allsvenskan,2020/21,490249.0,Tingsryds AIF,AIK,3.0,away,home,0.46,0.2,0.34,0
+90,2020-10-12,Timrå IK  - Västerås IK,4 - 1,allsvenskan,2020/21,490549.0,Timrå IK,Västerås IK,4.0,home,home,0.46,0.27,0.27,1
+91,2020-10-14,Almtuna IS  - HC Vita Hästen,1 - 3,allsvenskan,2020/21,490255.0,Almtuna IS,HC Vita Hästen,1.0,away,home,0.45,0.2,0.35,0
+92,2020-10-14,Väsby IK HK  - BIK Karlskoga,0 - 5,allsvenskan,2020/21,490256.0,Väsby IK HK,BIK Karlskoga,0.0,away,home,0.44,0.28,0.28,0
+93,2020-10-14,IF Björklöven  - Västerås IK,9 - 1,allsvenskan,2020/21,490257.0,IF Björklöven,Västerås IK,9.0,home,away,0.35,0.23,0.42,0
+94,2020-10-14,Södertälje SK  - Mora IK,3 - 4,allsvenskan,2020/21,490258.0,Södertälje SK,Mora IK,3.0,draw,away,0.42,0.09,0.49,0
+95,2020-10-16,BIK Karlskoga  - Södertälje SK,4 - 0,allsvenskan,2020/21,490262.0,BIK Karlskoga,Södertälje SK,4.0,home,home,0.47,0.26,0.27,1
+96,2020-10-16,Västerviks IK  - Väsby IK HK,3 - 4,allsvenskan,2020/21,490263.0,Västerviks IK,Väsby IK HK,3.0,away,home,0.53,0.25,0.22,0
+97,2020-10-16,Mora IK  - Tingsryds AIF,1 - 4,allsvenskan,2020/21,490264.0,Mora IK,Tingsryds AIF,1.0,away,home,0.41,0.19,0.4,0
+98,2020-10-16,HC Vita Hästen  - Timrå IK,2 - 5,allsvenskan,2020/21,490265.0,HC Vita Hästen,Timrå IK,2.0,away,away,0.3,0.27,0.43,1
+99,2020-10-16,MODO Hockey  - Kristianstads IK,6 - 4,allsvenskan,2020/21,490266.0,MODO Hockey,Kristianstads IK,6.0,home,home,0.44,0.21,0.35,1
+100,2020-10-17,Västerås IK  - Almtuna IS,3 - 2,allsvenskan,2020/21,490268.0,Västerås IK,Almtuna IS,3.0,home,home,0.56,0.1,0.34,1
+101,2020-10-18,Timrå IK  - Kristianstads IK,4 - 2,allsvenskan,2020/21,490259.0,Timrå IK,Kristianstads IK,4.0,home,home,0.66,0.15,0.19,1
+102,2020-10-18,Södertälje SK  - Tingsryds AIF,3 - 2,allsvenskan,2020/21,490629.0,Södertälje SK,Tingsryds AIF,3.0,home,home,0.47,0.24,0.29,1
+103,2020-10-18,IF Björklöven  - Västerviks IK,3 - 2,allsvenskan,2020/21,490294.0,IF Björklöven,Västerviks IK,3.0,home,home,0.57,0.21,0.22,1
+104,2020-10-18,MODO Hockey  - BIK Karlskoga,0 - 4,allsvenskan,2020/21,490545.0,MODO Hockey,BIK Karlskoga,0.0,away,home,0.41,0.3,0.29,0
+105,2020-10-20,Almtuna IS  - MODO Hockey,3 - 0,allsvenskan,2020/21,490251.0,Almtuna IS,MODO Hockey,3.0,home,home,0.44,0.24,0.32,1
+106,2020-10-20,Mora IK  - Västerviks IK,4 - 3,allsvenskan,2020/21,490283.0,Mora IK,Västerviks IK,4.0,draw,home,0.4,0.37,0.23,0
+107,2020-10-20,IF Björklöven  - Kristianstads IK,5 - 0,allsvenskan,2020/21,490542.0,IF Björklöven,Kristianstads IK,5.0,home,home,0.72,0.2,0.08,1
+108,2020-10-21,Väsby IK HK  - HC Vita Hästen,2 - 5,allsvenskan,2020/21,490252.0,Väsby IK HK,HC Vita Hästen,2.0,away,home,0.44,0.23,0.33,0
+109,2020-10-21,AIK  - Tingsryds AIF,3 - 0,allsvenskan,2020/21,490284.0,AIK,Tingsryds AIF,3.0,home,home,0.48,0.2,0.32,1
+110,2020-10-21,Södertälje SK  - BIK Karlskoga,4 - 2,allsvenskan,2020/21,490612.0,Södertälje SK,BIK Karlskoga,4.0,home,away,0.33,0.19,0.48,0
+111,2020-10-23,Västerviks IK  - Mora IK,3 - 1,allsvenskan,2020/21,490269.0,Västerviks IK,Mora IK,3.0,home,home,0.51,0.18,0.31,1
+112,2020-10-23,Tingsryds AIF  - Väsby IK HK,8 - 2,allsvenskan,2020/21,490270.0,Tingsryds AIF,Väsby IK HK,8.0,home,home,0.56,0.19,0.25,1
+113,2020-10-23,Timrå IK  - Södertälje SK,6 - 2,allsvenskan,2020/21,490271.0,Timrå IK,Södertälje SK,6.0,home,home,0.51,0.24,0.25,1
+114,2020-10-23,Almtuna IS  - AIK,4 - 2,allsvenskan,2020/21,490272.0,Almtuna IS,AIK,4.0,home,away,0.33,0.31,0.36,0
+115,2020-10-23,BIK Karlskoga  - IF Björklöven,4 - 5,allsvenskan,2020/21,490378.0,BIK Karlskoga,IF Björklöven,4.0,away,home,0.4,0.25,0.35,0
+116,2020-10-23,MODO Hockey  - HC Vita Hästen,6 - 1,allsvenskan,2020/21,490690.0,MODO Hockey,HC Vita Hästen,6.0,home,away,0.32,0.28,0.4,0
+117,2020-10-24,Kristianstads IK  - Mora IK,,allsvenskan,2020/21,,Kristianstads IK,Mora IK,,,away,0.23,0.26,0.51,0
+118,2020-10-25,Tingsryds AIF  - Västerviks IK,,allsvenskan,2020/21,,Tingsryds AIF,Västerviks IK,,,home,0.44,0.22,0.34,0
+119,2020-10-25,IF Björklöven  - Södertälje SK,,allsvenskan,2020/21,,IF Björklöven,Södertälje SK,,,home,0.51,0.29,0.2,0
+120,2020-10-26,Västerås IK  - HC Vita Hästen,,allsvenskan,2020/21,,Västerås IK,HC Vita Hästen,,,home,0.51,0.21,0.28,0
+121,2020-10-26,AIK  - Timrå IK,,allsvenskan,2020/21,,AIK,Timrå IK,,,home,0.44,0.16,0.4,0
+122,2020-10-27,IF Björklöven  - Västerviks IK,,allsvenskan,2020/21,,IF Björklöven,Västerviks IK,,,home,0.68,0.2,0.12,0
+123,2020-10-28,Södertälje SK  - Timrå IK,,allsvenskan,2020/21,,Södertälje SK,Timrå IK,,,home,0.53,0.23,0.24,0
+124,2020-10-28,BIK Karlskoga  - AIK,,allsvenskan,2020/21,,BIK Karlskoga,AIK,,,home,0.45,0.31,0.24,0
+125,2020-10-28,Västerås IK  - Väsby IK HK,,allsvenskan,2020/21,,Västerås IK,Väsby IK HK,,,home,0.43,0.24,0.33,0
+126,2020-10-30,HC Vita Hästen  - IF Björklöven,,allsvenskan,2020/21,,HC Vita Hästen,IF Björklöven,,,away,0.39,0.19,0.42,0
+127,2020-10-30,MODO Hockey  - Västerviks IK,,allsvenskan,2020/21,,MODO Hockey,Västerviks IK,,,home,0.41,0.25,0.34,0
+128,2020-10-30,Mora IK  - Almtuna IS,,allsvenskan,2020/21,,Mora IK,Almtuna IS,,,home,0.48,0.2,0.32,0
+129,2020-10-30,AIK  - Kristianstads IK,,allsvenskan,2020/21,,AIK,Kristianstads IK,,,home,0.53,0.22,0.25,0
+130,2020-10-30,Tingsryds AIF  - BIK Karlskoga,,allsvenskan,2020/21,,Tingsryds AIF,BIK Karlskoga,,,home,0.47,0.22,0.31,0
+131,2020-11-01,BIK Karlskoga  - MODO Hockey,,allsvenskan,2020/21,,BIK Karlskoga,MODO Hockey,,,home,0.49,0.29,0.22,0
+132,2020-11-01,Södertälje SK  - IF Björklöven,,allsvenskan,2020/21,,Södertälje SK,IF Björklöven,,,home,0.41,0.23,0.36,0
+133,2020-11-01,Väsby IK HK  - Västerås IK,,allsvenskan,2020/21,,Väsby IK HK,Västerås IK,,,home,0.47,0.24,0.29,0
+134,2020-11-01,Timrå IK  - Almtuna IS,,allsvenskan,2020/21,,Timrå IK,Almtuna IS,,,home,0.53,0.28,0.19,0
+135,2020-11-01,HC Vita Hästen  - Mora IK,,allsvenskan,2020/21,,HC Vita Hästen,Mora IK,,,away,0.36,0.27,0.37,0
+136,2020-11-02,Västerviks IK  - AIK,,allsvenskan,2020/21,,Västerviks IK,AIK,,,home,0.53,0.27,0.2,0
+137,2020-11-04,HC Vita Hästen  - Väsby IK HK,,allsvenskan,2020/21,,HC Vita Hästen,Väsby IK HK,,,home,0.49,0.16,0.35,0
+138,2020-11-04,MODO Hockey  - Södertälje SK,,allsvenskan,2020/21,,MODO Hockey,Södertälje SK,,,home,0.55,0.23,0.22,0
+139,2020-11-04,Timrå IK  - Mora IK,,allsvenskan,2020/21,,Timrå IK,Mora IK,,,home,0.46,0.28,0.26,0
+140,2020-11-04,Kristianstads IK  - AIK,,allsvenskan,2020/21,,Kristianstads IK,AIK,,,home,0.5,0.22,0.28,0
+141,2020-11-04,Almtuna IS  - BIK Karlskoga,,allsvenskan,2020/21,,Almtuna IS,BIK Karlskoga,,,home,0.52,0.28,0.2,0
+142,2020-11-04,Tingsryds AIF  - Västerås IK,,allsvenskan,2020/21,,Tingsryds AIF,Västerås IK,,,home,0.55,0.12,0.33,0
+143,2020-11-06,Södertälje SK  - HC Vita Hästen,,allsvenskan,2020/21,,Södertälje SK,HC Vita Hästen,,,home,0.44,0.34,0.22,0
+144,2020-11-06,Väsby IK HK  - IF Björklöven,,allsvenskan,2020/21,,Väsby IK HK,IF Björklöven,,,away,0.37,0.17,0.46,0
+145,2020-11-06,BIK Karlskoga  - Timrå IK,,allsvenskan,2020/21,,BIK Karlskoga,Timrå IK,,,home,0.42,0.22,0.36,0
+146,2020-11-06,Mora IK  - Kristianstads IK,,allsvenskan,2020/21,,Mora IK,Kristianstads IK,,,home,0.53,0.23,0.24,0
+147,2020-11-06,Västerviks IK  - Västerås IK,,allsvenskan,2020/21,,Västerviks IK,Västerås IK,,,home,0.41,0.34,0.25,0
+148,2020-11-11,MODO Hockey  - Väsby IK HK,,allsvenskan,2020/21,,MODO Hockey,Väsby IK HK,,,home,0.48,0.27,0.25,0
